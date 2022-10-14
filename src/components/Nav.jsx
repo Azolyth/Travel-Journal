@@ -3,7 +3,7 @@ import React from 'react';
 const Nav = () => {
   return (
     <nav>
-      <h1>Nav</h1>
+      <h3 className='nav-title'>my travel journal.</h3>
     </nav>
   );
 };
