@@ -7,23 +7,16 @@ body {
 
 .container {
   width: 770px;
+  height: 125vh;
   margin: 0 auto;
   background: #fff;
 }
 
 nav {
   height: 75px;
-  margin-top: 2em;
   background: #f55a5a;
   display: flex;
   justify-content: center;
-}
-
-main {
-  border-bottom: 1px solid #f5f5f5;
-  width: 675px;
-  height: 275px;
-  margin: 0 auto;
 }
 
 .globe-img {
@@ -31,6 +24,13 @@ main {
   height: 30px;
   align-self: center;
   margin-right: 0.475em;
+}
+
+main {
+  border-bottom: 1px solid #f5f5f5;
+  width: 675px;
+  height: 275px;
+  margin: 0 auto;
 }
 
 .card {
